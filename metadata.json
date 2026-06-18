@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Pro",
+  "description": "Commercial-Grade Zero-Backend Trading Intelligence & Market Analytics SaaS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
